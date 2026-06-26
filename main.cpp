@@ -82,9 +82,9 @@ int main() {
     
   /* Começo jogo*/
   cout << "Bem vindo ao jogo da memória" << endl;
-  cout << "Escolha um Número de 1 a 4 para cada linha/coluna e divirta-se!"
+  cout << "Escolha um Numero de 1 a 4 para cada linha/coluna e divirta-se!"
        << endl;
-  cout << "Está preparado?" << endl;
+  cout << "Esta preparado?" << endl;
   cin.get();
   system("clear");
   do {
