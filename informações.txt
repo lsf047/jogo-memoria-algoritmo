@@ -1,0 +1,4 @@
+Trabalho jogo da memória.
+Matéria: Algoritmos e Programação.
+Professor: Alex Rese
+Equipe: Lucca Santos Formiga e Caio Gabriel Scio
